@@ -30,11 +30,10 @@
       <h1>Ahoj jsem Adam</h1>
       <p>student OA Opava</p>
     </section>
-    <!-- END WELCOME SECTION -->
+    
     <p>Studuji konkrétně obor Informační technologie.
       Programování mě baví ale dokáže to být velmi těžké
     </p>moje projkekty:adammoravec.github.io/projekt/ <p>
    
     <footer><img src="https://cdn.prod.website-files.com/5a8e9877a63d300001a1b0c1/6136328e07cacb7b11e5dd03_green%20fox%20academy%20po%C4%8D%C3%ADta%C4%8D%20k%20programov%C3%A1n%C3%AD.jpg" width="300" height="300" alt="Green Fox Academy">       </footer>
-  </body>
-</html>
+
