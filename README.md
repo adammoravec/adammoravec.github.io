@@ -1,6 +1,6 @@
 [index.html](https://github.com/user-attachments/files/23327258/index.html)
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <link rel="stylesheet" href="style.css" />
@@ -24,7 +24,7 @@
 
     <!-- END NAV -->
 
-    <!-- START WELCOME SECTION -->
+  
 
     <section id="welcome-section" class="welcome-section">
       <h1>Ahoj jsem Adam</h1>
